@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4daa131a097440dd2fdb61ad70215939"
+build_time: [553050533, 612537000]
+inputs:
+  "/Users/andy06/Desktop/swift_call_c/swift_call_c/ViewController.swift": [552555782, 0]
+  "/Users/andy06/Desktop/swift_call_c/swift_call_c/AppDelegate.swift": !private [553050533, 0]
+  "/Users/andy06/Desktop/swift_call_c/swift_call_c/InsertViewController.swift": [552558573, 0]
+  "/Users/andy06/Desktop/swift_call_c/swift_call_c/ViewController2.swift": [552558573, 0]
